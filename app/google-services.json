@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "44144871370",
+    "firebase_url": "https://wallhub-5f036-default-rtdb.firebaseio.com",
+    "project_id": "wallhub-5f036",
+    "storage_bucket": "wallhub-5f036.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44144871370:android:414811d49080fb1686b133",
+        "android_client_info": {
+          "package_name": "com.dnc.wallhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44144871370-d6draa70uui0du425bb09fevgd2jqce2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8yDHG5EA3uYqC4hQwM6tqEHr95weeJIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44144871370-d6draa70uui0du425bb09fevgd2jqce2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
