@@ -11,7 +11,7 @@
 * Lottie
 
 
-###Screenshoot
+Screenshot
 
 ![](https://i.resmim.net/oaNPT.jpg)
 
