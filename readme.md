@@ -131,10 +131,6 @@ WallHUB/
 **Emir Han Dinç**
 - GitHub: [@EmirHanDinc](https://github.com/EmirHanDinc)
 
-## 📄 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakınız.
-
 ## 🤝 Katkıda Bulunma
 
 1. Bu repository'yi fork edin
